@@ -1,0 +1,13 @@
+1-SC.t11.04_tA(AGC)K1.gb,t11-4 A,ttcacacgtccgtcatgtct,HL,aagatttttgtaaaactgagtatttcgtgaacaatataattgttcggattcaatcatagt,HR,tcctgccgttacttgcttttaaaataactgccttttatgaatacagagtataatttttga,t11-4 D,ctctttggatcacctgagtt
+6-SC.t07.15_tA(AGC)G deletion.gb,WHO536 t7-15 A,ttgcttcctagaaatccggt,HL,aagctactttatcgaatgattgaaattcatttctgcttgaatagaattcaactatcgttt,HR,gaaacatattcctcaaatgggtaaacggaccctggtgcaaggtgtgggtgctgagacaaa,WHO537 t7-15 D,cagttgtagctacgcatta
+6-SC.t07.15_tA(AGC)G URA3.gb,WHO536 t7-15 A,tatccgtgattttagtacaa,HL,aatggcaagtgattcacaaaatacaagctactttatcgaatgattgaaattcatttctgc,HR,gatcaaggaaaggactagtccaaagaaacatattcctcaaatgggtaaacggaccctggt,WHO537 t7-15 D,tacgcacgggtttcgcctt
+6-SC.t07.15_tA(AGC)G.gb
+SC.t04.03_tA(AGC)D.gb,t4-3 A,aggtagcactaatgcattatcga,HL,aatagtaaattaagtgcaaacatgtaagaaagattctcggtaacgaccatacaaatattg,HR,ctttccgcggtgccgagatgcagacgtggccaactgtgtctgccgtcgcaaaatgatttg,t4-3 D,tcaatggaacgcaccacaat
+SC.t06.06_tA(AGC)F.gb,t6-6 A,agttgaggttgaccacttga,HL,taatatccagtatcatttgagttgatagagattatctctatagatagagagatttgacaa,HR,aacgtttgttgaaatcttccaaacagaaatgatacaggtttactttacagcaagacatta,t6-6 D,acaggagtgactaggactta
+SC.t08.08_tA(AGC)H.gb,t8-8 A,cgaccaacctgtattgaatgaagg,HL,cttaccatgttgacagcttatacattaacagacctttatagtactgttatggtaataaca,HR,cagacagaaacaattatccttagtgaaaaaaataagaaaattctggttcggttattgagt,t8-8 D,tagtaaatacgaagaccgtgaa
+SC.t10.22_tA(AGC)J.gb
+SC.t11.09_tA(AGC)K2.gb,t11-9 A,actttggggattcggagttcc,HL,cgttattaactttcactgcggctccgctcttttcctcataaggaaatcccctcttatgat,HR,ttcactacttttcaatgaaactctcttcaaaagacagcatgcagtaaaagcgccgatatg,t11-9 D,atcagtactccgatgcgaaa
+SC.t12.16_tA(AGC)L.gb
+SC.t13.09_tA(AGC)M2.gb,t13-9 A,agctggaggtaagaagtacgt,HL,attctgttcttgattaactataattttaaatatgaagttacactaattgcaaagtagcaa,HR,gtcggaagaggaaccacctaccccctatagtctagcatccatcttattacatatacgacg,t13-9 D,cgtgctgaactattacgtta
+SC.t13.17_tA(AGC)M1.gb,t13-17 A,tggttgctggaaggtataaggc,HL,aatattgctgtatcttcatgtaacctcgtaaaagacgttatatatgggttagttagccaa,HR,atttgtattgaagactttgaagaagtatagaaaacataaatgtaggatacatttttaaac,t13-17 D,tattctggaaagagtgtcgtaaa
+SC.t16.07_tA(AGC)P.gb

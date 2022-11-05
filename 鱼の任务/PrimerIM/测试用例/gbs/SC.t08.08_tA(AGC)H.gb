@@ -1,0 +1,75 @@
+LOCUS       Exported                2073 bp DNA     linear   UNA 28-OCT-2022
+DEFINITION  natural linear DNA
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      natural DNA sequence
+  ORGANISM  unspecified
+REFERENCE   1  (bases 1 to 2073)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Oct 29, 2022 from SnapGene 6.0.2
+            https://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..2073
+                     /mol_type="genomic DNA"
+                     /organism="unspecified"
+     CDS             1..821
+                     /codon_start=1
+                     /label=YHR020W
+                     /translation="AKTFLRCSICLWRTH*VLIIQRSLRTKIHGVYPLVSLVSWS*STL
+                     TTRVWLSHQECPNSNPLSFQWASQRRPLRNSVNTFMKQPEVWNPV*KRLALEPLVTITI
+                     ITHQVGNFPNTS*RVFQSVLN*VLRILKKTKSLSFVEMTPRNTSFLSTNWKPVSQKS*K
+                     KCKEICSKKPRSYSTPTELSLMNGVVLFQH*TRRTLS*HHGVV*WNVKKISRNLLQRKT
+                     MVKNSRKMTRHQVWVPNLYVSHSTNLY*MKVKNVSSVNVLLSITVCSVVLI"
+     primer_bind     733..756
+                     /label=t8-8 A
+     misc_feature    932..991
+                     /label=HL
+     tRNA            complement(1001..1073)
+                     /label=SC.t08.08_tA(AGC)H
+     LTR             complement(1090..1430)
+                     /label=YHRCsigma2
+     LTR             1603..1873
+                     /label=YHRWtau3
+     misc_feature    1877..1936
+                     /label=HR
+     primer_bind     complement(2042..2063)
+                     /label=t8-8 D
+ORIGIN
+        1 gccaaaactt ttctaagatg ttcaatttgt ctgtggagaa cccactaggt tctgatcatc
+       61 caaagatctt tgcgtaccaa aattcatggg gtttatccac tcgtgtcatt ggtgtcatgg
+      121 tcatgatcca ctctgacaac aagggtttgg ttatcccacc aagagtgtcc caattccaat
+      181 ccgttgtcat tccagtgggc atcacaaaga agacctctga ggaacagcgt aaacacattc
+      241 atgaaacagc cagaagtgtg gaatcccgtt tgaaaaaggt tggcattaga gcctttggtg
+      301 actataacga taattacaca ccaggttgga aattttccca atacgagcta aagggtattc
+      361 caatccgtat tgaattaggt cctaaggata ttgaaaaaaa ccaagtcgtt gtcgttcgta
+      421 gaaatgactc caagaaatac gtcgtttctt tcgacgaatt ggaagcccgt atcccagaaa
+      481 tcttagaaga aatgcaagga gatttgttca aaaaagccaa ggagctattc gacacccaca
+      541 gagttatcgt taatgaatgg agtggttttg ttccagcatt gaacaagaag aacgttatct
+      601 tagcaccatg gtgtggtgtg atggaatgtg aagaagatat caaggaatct tctgcaaaga
+      661 aagacgatgg tgaagaattc gaggaagatg acaaggcacc aagtatgggt gccaaatctt
+      721 tatgtatccc attcgaccaa cctgtattga atgaaggtca aaaatgtatc aagtgtgaac
+      781 gtattgctgt caattactgt atgttcggtc gttcttatta gttgcatttc ccacctataa
+      841 ttttcatgta tagagttttt attttgtgct ttttatcttt ctaaaaatca aatatcatca
+      901 ttttcaaata atgtttccgc tattaaatgt accttaccat gttgacagct tatacattaa
+      961 cagaccttta tagtactgtt atggtaataa caaaaaagat tggacgagtc cggaatcgaa
+     1021 ccggagacct ctcccatgct aagggagcgc gctaccgact acgccacacg ccctgatatt
+     1081 tgttgaatgt gttgtattac gggctcgagt aataccggag tgtcttgaca atcctaatct
+     1141 gaacagtctt agggaagtaa ccagttgtca aaacggttta tcagattaat tcacggaatg
+     1201 ttacttatct tatatattat ataaaatatg aatcatacta agtggtggaa gcgcggaatc
+     1261 tcggatctaa actaattgtt caggcattta tacttttggg tagttcagct agggaaggac
+     1321 gggttttgtc tcatgttgtt cgttttgtta taaggttgtt tcatatgtgt tttatgaacg
+     1381 tttaggatga cgtattgtca tactgacgta tctcattttg agatacaaca gaatgagtgg
+     1441 tattaaagaa ataaggaata ccataaggtt gatcaaaatt aaatattgga aggaaggtaa
+     1501 ctagcttttt gactttatta ttgttggaac taataatcat taatattcga cactttaaaa
+     1561 attttttata agattaatat cgttgcaatt aatacaccgt ttgttgctat gctaacaatg
+     1621 tgaatacgca caccgtatat ttatgttcat ttcgtatatg tttttgcatg ggtgtgcctt
+     1681 ttgcagaaga cagaaatgtt gttctggcaa gggagacaat agttcagttg aggtaaggcc
+     1741 ctattagttg aacattagag tgcaagtcat atatatgagt aaaatgggtg tcacattaaa
+     1801 tatatcgtga ctacccaatc ttctattgta ttggtggtat ttaaggtgaa ctaatccgca
+     1861 tgtgttttat ataatttcag acagaaacaa ttatccttag tgaaaaaaat aagaaaattc
+     1921 tggttcggtt attgagttat tttaaaacct tattcctaac agcagctttc actatttcca
+     1981 gtgacattta tgcccggtat aatgaccatt gcaataacat gtatacatgt aattccaggt
+     2041 gcatcattta tgcttctggc acttacagta tag
+//

@@ -1,0 +1,84 @@
+LOCUS       Exported                1858 bp DNA     linear   SYN 07-OCT-2022
+DEFINITION  chrVII coordinates 773349 to 775421.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 1858)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Oct 29, 2022 from SnapGene 6.0.2
+            https://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..1858
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     CDS             1..338
+                     /codon_start=1
+                     /label=BTN2
+                     /translation="RRKPD*RQGKNL**ISKKPRGPSKKNCKIPNHCLSLRLRPAIKII
+                     IAILVQQKVIMKV*TVILIRLWISLCLVIH*KNTLHPY*KTLRMRKLTDTTSP*ADLPR
+                     ETLLLRRY"
+     primer_bind     547..566
+                     /label=WHO536 t7-15 A
+     primer_bind     628..707
+                     /label=WHO534 t7-15 F
+     misc_feature    628..687
+                     /label=HL
+     primer_bind     689..707
+                     /label=WHO425
+     primer_bind     complement(697..722)
+                     /label=WHO405 SceI R
+     misc_feature    698..898
+                     /label=URR2
+     primer_bind     698..718
+                     /label=WHO407 URR2 F
+     primer_bind     complement(873..908)
+                     /label=WHO402 URR2 R
+     primer_bind     complement(873..898)
+                     /label=WHO399 URR2 R
+     primer_bind     complement(899..970)
+                     /label=WHO535 t7-15 R
+     misc_feature    911..970
+                     /label=HR
+     primer_bind     complement(1031..1049)
+                     /label=WHO537 t7-15 D
+     CDS             1630..1858
+                     /codon_start=1
+                     /label=SKN1
+                     /translation="MSVRNLTNNRHSNSENSVSGSENSFYSSNEQSRQSSSLEPADGQN
+                     VRVSGNPFLGSEEFDEDYNSPSGDDERRGAN"
+ORIGIN
+        1 agaaggaagc cagattgaag gcaaggaaag aatctttgat aaataagcaa aaaaccaaga
+       61 ggtcccagca aaaaaaattg caaaattcca aatcattgcc tatctctgag attgaggcca
+      121 gcaataaaaa taataatagc aattctggtt cagcagaaag tgataatgaa agtataaaca
+      181 gtgattctga tacgactttg gatttctctg tgtctggtaa tacactaaaa aaacacgctt
+      241 cacccctatt agaagacgtt gaggatgagg aagttgacag atacaacgag tccctaagca
+      301 gatctcccaa gggaaactct attattgagg agatataatg ggtgataata catactcccc
+      361 atctttcatt tttacggcat taaataacta attatatgca tcttatatac tactataatt
+      421 cactgacttt atgaaaggaa tataaatcgg cacggcagaa ggcggattta ttttgttaca
+      481 atataacaaa ataaaagggc aacagtaaag tagaaattat tagtatccgt gattttagta
+      541 caattatttg cttcctagaa atccggtttt ccatgttaac atttatgcta gtattttatg
+      601 gtggaatggc aagtgattca caaaatacaa gctactttat cgaatgattg aaattcattt
+      661 ctgcttgaat agaattcaac tatcgttttg cgtctctcgc tagtaacatc agctaacgaa
+      721 agagttagag gctcgctaaa tcgcactgtc ggggtccctt gggtatttta cactagcgtc
+      781 aggacgacta gcatgtgtct ttccttccag gggtatgcgg gtgcgtggac aaatgagcag
+      841 catacgtatt tactcggcgt gcctgctctc tcgtatttct cctggagatc aaggaaatgg
+      901 actagtccaa agaaacatat tcctcaaatg ggtaaacgga ccctggtgca aggtgtgggt
+      961 gctgagacaa atacgatctg agttgtttta aaaaggaaaa caaatgaatg cgtgcccaaa
+     1021 gcggaaaatt ggtcaacatc gatgcgtaat tagtaggccc aggtgagcct gtgccgaaca
+     1081 tgtatctctg cgcagattac tatatattcc cgagcataac agcatatagt tttctttcac
+     1141 ataggccttc ctccaactgc catcactgta catagacgtt tcggcactgt atattcttgt
+     1201 cccttttttt ttgcctacta cattgctgca ttcaaacgat atcgctctgc gaaccgttta
+     1261 aaactgacca aaatagggag acctaccttc taaggagaaa aaattcgcat tgctaaaaaa
+     1321 aagctaaaag agaaagagaa gaagaatatt aaaccagtat attctactac aactatcgat
+     1381 ttactccgac tacaaagtgc ctcttcgtat tttcagtcgc tcgaaaaaac aacccatatt
+     1441 ccatttgatt ctacgcagct ggtagaaact tttacaggtt tgataaaatt attacaatcg
+     1501 ttagcggtta cgcaaggaat aggaaataaa gaaacggtaa ataataagaa aaacacagca
+     1561 gatctaagcc tattgcacac agtatattat aaccattact agctagtgtt acataaacaa
+     1621 tagcagaata tgtctgtgcg aaacctcacc aataatcgtc attccaacag cgaaaatagt
+     1681 gtttccggaa gcgaaaactc cttttattcc tcgaatgagc aatcaagaca aagctcatca
+     1741 ttagaacctg cagatggtca gaacgttagg gtgagcggta atcctttcct tggaagtgaa
+     1801 gaatttgacg aagattataa ttcacccagt ggagacgatg agcggcgtgg ggcaaatg
+//

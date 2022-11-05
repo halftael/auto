@@ -1,0 +1,235 @@
+LOCUS       Exported                4713 bp DNA     linear   SYN 07-OCT-2022
+DEFINITION  chrVII coordinates 773349 to 775421.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 4713)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Oct 28, 2022 from SnapGene 6.0.2
+            https://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..4713
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     CDS             1..338
+                     /codon_start=1
+                     /label=BTN2
+                     /translation="RRKPD*RQGKNL**ISKKPRGPSKKNCKIPNHCLSLRLRPAIKII
+                     IAILVQQKVIMKV*TVILIRLWISLCLVIH*KNTLHPY*KTLRMRKLTDTTSP*ADLPR
+                     ETLLLRRY"
+     primer_bind     547..566
+                     /label=WHO536 t7-15 A
+     primer_bind     628..707
+                     /label=WHO534 t7-15 F
+     misc_feature    628..687
+                     /label=HL
+     primer_bind     689..707
+                     /label=WHO425
+     primer_bind     complement(697..722)
+                     /label=WHO405 SceI R
+     misc_feature    698..898
+                     /label=URR2
+     primer_bind     698..718
+                     /label=WHO407 URR2 F
+     primer_bind     complement(873..909)
+                     /label=WHO399 URR2 R
+     primer_bind     complement(873..897)
+                     /label=WHO402 URR2 R
+     primer_bind     complement(888..912)
+                     /label=WHO418 R
+     primer_bind     889..947
+                     /label=WHO417 URA3 F
+     primer_bind     906..927
+                     /label=WHO421 I-SceI F
+     misc_feature    910..927
+                     /label=I-SceI
+     primer_bind     927..941
+                     /label=WHO401 URA3 F
+     CDS             complement(928..1731)
+                     /codon_start=1
+                     /gene="S. cerevisiae URA3"
+                     /product="orotidine-5'-phosphate decarboxylase, required 
+                     for uracil biosynthesis"
+                     /label=URA3
+                     /note="yeast auxotrophic marker, counterselectable with 
+                     5-fluoroorotic acid (5-FOA)"
+                     /translation="MSKATYKERAATHPSPVAAKLFNIMHEKQTNLCASLDVRTTKELL
+                     ELVEALGPKICLLKTHVDILTDFSMEGTVKPLKALSAKYNFLLFEDRKFADIGNTVKLQ
+                     YSAGVYRIAEWADITNAHGVVGPGIVSGLKQAAEEVTKEPRGLLMLAELSCKGSLSTGE
+                     YTKGTVDIAKSDKDFVIGFIAQRDMGGRDEGYDWLIMTPGVGLDDKGDALGQQYRTVDD
+                     VVSTGSDIIIVGRGLFAKGRDAKVEGERYRKAGWEAYLRRCGQQN"
+     primer_bind     complement(1210..1231)
+                     /label=WHO412 URA3 R
+     promoter        complement(1732..1947)
+                     /gene="S. cerevisiae URA3"
+                     /label=URA3 promoter
+     primer_bind     complement(1938..1971)
+                     /label=WHO420 URA3 R
+     primer_bind     1947..1966
+                     /label=WHO416 Seq
+     primer_bind     1952..1996
+                     /label=WHO404 SceI F
+     primer_bind     complement(1956..1976)
+                     /label=WHO403 URA3 R
+     CDS             complement(1997..2830)
+                     /codon_start=1
+                     /label=I-sceI
+                     /translation="MGSRSPKKKRKVPKKHAAPPKKKRKVEDPRFMYPYDVPDYAGMKN
+                     IKKNQVMNLGPNSKLLKEYKSQLIELNIEQFEAGIGLILGDAYIRSRDEGKTYCMQFEW
+                     KNKAYMDHVCLLYDQWVLSPPHKKERVNHLGNLVITWGAQTFKHQAFNKLANLFIVNNK
+                     KTIPNNLVENYLTPMSLAYWFMDDGGKWDYNKNSTNKSIVLNTQSFTFEEVEYLVKGLR
+                     NKFQLNCYVKINKNKPIIYIDSMSYLIFYNLIKPYLIPQMMYKLPNTISSETFLK"
+     primer_bind     complement(2018..2037)
+                     /label=WHO415 I-SceI seq
+     CDS             complement(2708..2734)
+                     /codon_start=1
+                     /product="HA (human influenza hemagglutinin) epitope tag"
+                     /label=HA
+                     /translation="YPYDVPDYA"
+     CDS             complement(2708..2734)
+                     /codon_start=1
+                     /product="HA (human influenza hemagglutinin) epitope tag"
+                     /label=HA
+                     /translation="YPYDVPDYA"
+     CDS             complement(2753..2773)
+                     /codon_start=1
+                     /product="nuclear localization signal of SV40 large T 
+                     antigen"
+                     /label=SV40 NLS
+                     /translation="PKKKRKV"
+     CDS             complement(2753..2773)
+                     /codon_start=1
+                     /product="nuclear localization signal of SV40 large T 
+                     antigen"
+                     /label=SV40 NLS
+                     /translation="PKKKRKV"
+     CDS             complement(2795..2815)
+                     /codon_start=1
+                     /product="nuclear localization signal of SV40 large T 
+                     antigen"
+                     /label=SV40 NLS
+                     /translation="PKKKRKV"
+     CDS             complement(2795..2815)
+                     /codon_start=1
+                     /product="nuclear localization signal of SV40 large T 
+                     antigen"
+                     /label=SV40 NLS
+                     /translation="PKKKRKV"
+     promoter        2864..3528
+                     /gene="GAL1 and GAL10 genes of S. cerevisiae"
+                     /label=GAL1,10 promoter
+                     /note="divergent inducible promoter, regulated by Gal4"
+     protein_bind    3195..3312
+                     /label=UAS
+                     /bound_moiety="Gal4"
+                     /note="upstream activating sequence mediating 
+                     Gal4-dependent induction"
+     primer_bind     3331..3354
+                     /label=WHO413 pGal F
+     primer_bind     complement(3532..3578)
+                     /label=WHO405 SceI R
+     misc_feature    3554..3753
+                     /label=URR2
+     primer_bind     3554..3574
+                     /label=WHO407 URR2 F
+     primer_bind     complement(3729..3763)
+                     /label=WHO402 URR2 R
+     primer_bind     complement(3729..3753)
+                     /label=WHO399 URR2 R
+     primer_bind     complement(3746..3825)
+                     /label=WHO535 t7-15 R
+     primer_bind     complement(3747..3765)
+                     /label=WHO426
+     misc_feature    3766..3825
+                     /label=HR
+     primer_bind     complement(3886..3904)
+                     /label=WHO537 t7-15 D
+     CDS             4485..4713
+                     /codon_start=1
+                     /label=SKN1
+                     /translation="MSVRNLTNNRHSNSENSVSGSENSFYSSNEQSRQSSSLEPADGQN
+                     VRVSGNPFLGSEEFDEDYNSPSGDDERRGAN"
+ORIGIN
+        1 agaaggaagc cagattgaag gcaaggaaag aatctttgat aaataagcaa aaaaccaaga
+       61 ggtcccagca aaaaaaattg caaaattcca aatcattgcc tatctctgag attgaggcca
+      121 gcaataaaaa taataatagc aattctggtt cagcagaaag tgataatgaa agtataaaca
+      181 gtgattctga tacgactttg gatttctctg tgtctggtaa tacactaaaa aaacacgctt
+      241 cacccctatt agaagacgtt gaggatgagg aagttgacag atacaacgag tccctaagca
+      301 gatctcccaa gggaaactct attattgagg agatataatg ggtgataata catactcccc
+      361 atctttcatt tttacggcat taaataacta attatatgca tcttatatac tactataatt
+      421 cactgacttt atgaaaggaa tataaatcgg cacggcagaa ggcggattta ttttgttaca
+      481 atataacaaa ataaaagggc aacagtaaag tagaaattat tagtatccgt gattttagta
+      541 caattatttg cttcctagaa atccggtttt ccatgttaac atttatgcta gtattttatg
+      601 gtggaatggc aagtgattca caaaatacaa gctactttat cgaatgattg aaattcattt
+      661 ctgcttgaat agaattcaac tatcgttttg cgtctctcgc tagtaacatc agctaacgaa
+      721 agagttagag gctcgctaaa tcgcactgtc ggggtccctt gggtatttta cactagcgtc
+      781 aggacgacta gcatgtgtct ttccttccag gggtatgcgg gtgcgtggac aaatgagcag
+      841 catacgtatt tactcggcgt gcctgctctc tcgtatttct cctggagatc aaggaaattg
+      901 cggccgcaat agggataaca gggtaattta gttttgctgg ccgcatcttc tcaaatatgc
+      961 ttcccagcct gcttttctgt aacgttcacc ctctacctta gcatcccttc cctttgcaaa
+     1021 tagtcctctt ccaacaataa taatgtcaga tcctgtagag accacatcat ccacggttct
+     1081 atactgttga cccaatgcgt ctcccttgtc atctaaaccc acaccgggtg tcataatcaa
+     1141 ccaatcgtaa ccttcatctc ttccacccat gtctctttga gcaataaagc cgataacaaa
+     1201 atctttgtcg ctcttcgcaa tgtcaacagt acccttagta tattctccag tagataggga
+     1261 gcccttgcat gacaattctg ctaacatcaa aaggcctcta ggttcctttg ttacttcttc
+     1321 tgccgcctgc ttcaaaccgc taacaatacc tgggcccacc acaccgtgtg cattcgtaat
+     1381 gtctgcccat tctgctattc tgtatacacc cgcagagtac tgcaatttga ctgtattacc
+     1441 aatgtcagca aattttctgt cttcgaagag taaaaaattg tacttggcgg ataatgcctt
+     1501 tagcggctta actgtgccct ccatggaaaa atcagtcaag atatccacat gtgtttttag
+     1561 taaacaaatt ttgggaccta atgcttcaac taactccagt aattccttgg tggtacgaac
+     1621 atccaatgaa gcacacaagt ttgtttgctt ttcgtgcatg atattaaata gcttggcagc
+     1681 aacaggacta ggatgagtag cagcacgttc cttatatgta gctttcgaca tgatttatct
+     1741 tcgtttcctg caggtttttg ttctgtgcag ttgggttaag aatactgggc aatttcatgt
+     1801 ttcttcaaca ctacatatgc gtatatatac caatctaagt ctgtgctcct tccttcgttc
+     1861 ttccttctgt tcggagatta ccgaatcaaa aaaatttcaa agaaaccgaa atcaaaaaaa
+     1921 agaataaaaa aaaaatgatg aattgaattg aaaagctgtg gtatggtgca ctctcagatc
+     1981 cccgggaatt gccatgttat ttcaggaaag tttcggagga gatagtgttc ggcagtttgt
+     2041 acatcatctg cgggatcagg tacggtttga tcaggttgta gaagatcagg taagacatag
+     2101 aatcgatgta gatgatcggt ttgtttttgt tgatttttac gtaacagttc agttggaatt
+     2161 tgttacgcag acccttaacc aggtattcta cttcttcgaa agtgaaagac tgggtgttca
+     2221 gtacgatcga tttgttggta gagtttttgt tgtaatccca tttaccacca tcatccatga
+     2281 accagtatgc cagagacatc ggggtcaggt agttttcaac caggttgttc gggatggttt
+     2341 ttttgttgtt aacgatgaac aggttagcca gtttgttgaa agcttggtgt ttgaaagtct
+     2401 gggcgcccca ggtgattacc aggttaccca ggtggttaac acgttctttt ttgtgcggcg
+     2461 gggacagtac ccactgatcg tacagcagac atacgtggtc catgtatgct ttgtttttcc
+     2521 actcgaactg catacagtag gttttacctt catcacgaga acggatgtaa gcatcaccca
+     2581 ggatcagacc gatacctgct tcgaactgtt cgatgttcag ttcgatcagc tgggatttgt
+     2641 attctttcag cagtttagag ttcggaccca ggttcattac ctggtttttt ttgatgtttt
+     2701 tcatacccgc atagtcagga acatcgtatg ggtacataaa tcgtgggtct tctacttttc
+     2761 gttttttttt tggtggtgct gcatgcttct tcggcacctt tctcttcttt tttggcgatc
+     2821 ttgatcccat tttgaggtgg tcagctggaa ttccggatcc ggggtttttt ctccttgacg
+     2881 ttaaagtata gaggtatatt aacaattttt tgttgatact tttattacat ttgaataaga
+     2941 agtaatacaa accgaaaatg ttgaaagtat tagttaaagt ggttatgcag tttttgcatt
+     3001 tatatatctg ttaatagatc aaaaatcatc gcttcgctga ttaattaccc cagaaataag
+     3061 gctaaaaaac taatcgcatt atcatcctat ggttgttaat ttgattcgtt catttgaagg
+     3121 tttgtggggc caggttactg ccaatttttc ctcttcataa ccataaaagc tagtattgta
+     3181 gaatctttat tgttcggagc agtgcggcgc gaggcacatc tgcgtttcag gaacgcgacc
+     3241 ggtgaagacg aggacgcacg gaggagagtc ttccttcgga gggctgtcac ccgctcggcg
+     3301 gcttctaatc cgtacttcaa tatagcaatg agcagttaag cgtattactg aaagttccaa
+     3361 agagaaggtt tttttaggct aagataatgg ggctctttac atttccacaa catataagta
+     3421 agattagata tggatatgta tatggatatg tatatggtgg taatgccatg taatatgatt
+     3481 attaaacttc tttgcgtcca tccaaaaaaa aagtaagaat ttttgaaaat tcaaggaatt
+     3541 cgatatcaag cttcgctagt aacatcagct aacgaaagag ttagaggctc gctaaatcgc
+     3601 actgtcgggg tcccttgggt attttacact agcgtcagga cgactagcat gtgtctttcc
+     3661 ttccaggggt atgcgggtgc gtggacaaat gagcagcata cgtatttact cggcgtgcct
+     3721 gctctctcgt atttctcctg gagatcaagg aaaggactag tccaaagaaa catattcctc
+     3781 aaatgggtaa acggaccctg gtgcaaggtg tgggtgctga gacaaatacg atctgagttg
+     3841 ttttaaaaag gaaaacaaat gaatgcgtgc ccaaagcgga aaattggtca acatcgatgc
+     3901 gtaattagta ggcccaggtg agcctgtgcc gaacatgtat ctctgcgcag attactatat
+     3961 attcccgagc ataacagcat atagttttct ttcacatagg ccttcctcca actgccatca
+     4021 ctgtacatag acgtttcggc actgtatatt cttgtccctt tttttttgcc tactacattg
+     4081 ctgcattcaa acgatatcgc tctgcgaacc gtttaaaact gaccaaaata gggagaccta
+     4141 ccttctaagg agaaaaaatt cgcattgcta aaaaaaagct aaaagagaaa gagaagaaga
+     4201 atattaaacc agtatattct actacaacta tcgatttact ccgactacaa agtgcctctt
+     4261 cgtattttca gtcgctcgaa aaaacaaccc atattccatt tgattctacg cagctggtag
+     4321 aaacttttac aggtttgata aaattattac aatcgttagc ggttacgcaa ggaataggaa
+     4381 ataaagaaac ggtaaataat aagaaaaaca cagcagatct aagcctattg cacacagtat
+     4441 attataacca ttactagcta gtgttacata aacaatagca gaatatgtct gtgcgaaacc
+     4501 tcaccaataa tcgtcattcc aacagcgaaa atagtgtttc cggaagcgaa aactcctttt
+     4561 attcctcgaa tgagcaatca agacaaagct catcattaga acctgcagat ggtcagaacg
+     4621 ttagggtgag cggtaatcct ttccttggaa gtgaagaatt tgacgaagat tataattcac
+     4681 ccagtggaga cgatgagcgg cgtggggcaa atg
+//

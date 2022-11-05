@@ -1,0 +1,71 @@
+LOCUS       Exported                2073 bp DNA     linear   SYN 14-AUG-2019
+DEFINITION  chrX coordinates 196313 to 198385.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 2073)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Oct 29, 2022 from SnapGene 6.0.2
+            https://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..2073
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     CDS             1..814
+                     /codon_start=1
+                     /label=ASF1
+                     /translation="QSLKQPGKVH*SI*V*NHF*MLRIFKT*LRVETNLCWVLSFSRP*
+                     PGIGFHSGRPRSRRC**ICVFC*PSLRRADSCE*IG*CDCYSIKLFL*RERVC*GRLLR
+                     E**VR*RRVKRKSASKGTSRSYCKKYTG*KAKGNKV*HCLG**K*RGFIPT*TARRR**
+                     RGGGR*RRR*R*R**RRRR*RSRRWRGRGGRSGRGGRRGGRED*RQRNES*RRGGRHRK
+                     **RR*GRRRRRGGVCRQE*RW***EEEENRRGVHGY*IHSKGCGTFNEL"
+     tRNA            complement(1001..1073)
+                     /label=SC.t10.22_tA(AGC)J
+     misc_feature    1089..1182
+                     /label=YJLWsigma1
+     misc_feature    1233..2073
+                     /label=YJLWTy4-1
+     misc_feature    1233..1603
+                     /label=YJLWtau1
+     gene            1603..2073
+                     /label=YJL114W
+ORIGIN
+        1 caaagtctta aacaacccgg caaagttcac tgatccatat gagtttgaaa tcacttttga
+       61 atgcttagaa tctttaaaac atgacttaga gtggaaacta acctatgttg ggtcctctcg
+      121 ttctctagac catgaccagg aattggattc cattctggta ggccccgttc ccgtaggtgt
+      181 taataaattt gtgttttctg ctgaccctcc ctccgccgag ctgattcctg cgagtgaatt
+      241 ggttagtgtg actgttattc tattaagttg ttcttatgac gggagagagt ttgttagggt
+      301 cggttactac gtgaataatg agtacgatga agaagagtta agagaaaatc cgccagcaaa
+      361 ggtacaagta gatcatattg taagaaatat actggctgaa aagccaaggg taacaaggtt
+      421 taacattgtt tgggataatg aaaatgaagg ggatttatac ccacctgaac agcccggcgt
+      481 agatgatgaa gaggaggagg acgatgaaga agaagatgac gatgaagatg atgaagacga
+      541 cgaagatgac gatcaagaag atggagaggg agaggcggaa gaagcggcag aggaggaaga
+      601 agaggaggaa gagaagactg aagacaacga aacgaatctt gaagaagagg aggaagacat
+      661 agaaaatagt gacggcgatg aggaagaagg agaagaagag gtggggtctg tagacaagaa
+      721 tgaagatggt aatgataaga agaggaggaa aatagaaggg gggtccacgg atattgaatc
+      781 cactccaaag gatgcggcac gttcaacgaa ttaagaattt atgggttata agattaatgg
+      841 tacctgcaag agaggtacac tttataaaat gtataaataa aaaaataaca gacataagat
+      901 aaagtcgggt tagggcaaca gctacgtaaa aaataaaagg cagtaatatt ttccatttaa
+      961 gttgattttc ttattattgt cgttgagaac aaaaagaaat tggacgagtc cggaatcgaa
+     1021 ccggagacct ctcccatgct aagggagcgc gctaccgact acgccacacg ccctaatatt
+     1081 attgatattg ttgtttatca aagtgagata cgtcagtatg acaatacgtc atcctaaaag
+     1141 ttcataaaac acatatgaaa caacttcata acagaacgaa catgttggaa taaaaatcca
+     1201 ctatcgtcta tcaactaata gttatattat catgttggaa cgagagtaat taatagtgac
+     1261 atgagttgct atggtaacaa tctaatgctt acatcgtata ttaatgtaca actcgtatac
+     1321 gtttaagtgt gattgcgcct attgcagaag gaatgttaaa cgagaagctc agacaatact
+     1381 gaagctgtgt taaagaccta ttagttgaac atgttatggt aggtacatat atgaggaata
+     1441 tgagtcgtca catcaatgta tagtaactac cggaatcact attatattgg tcataattaa
+     1501 tatgaccaat cggcgtgtgt tttatatacc tctcttattt agtataagaa gatcagtact
+     1561 cacttcttca ttaatactaa tttttaacct ctaattatca acatggcgac cccagtgagg
+     1621 ggtgaaacaa gaaatgttat tgacgacaac atttctgcgc ggattcaatc gaaagtcaaa
+     1681 acaaatgata ctgtcagaca gacgccatca tcattaagaa aagtttctat taaagatgaa
+     1741 caggtgagac aatatcaaag aaacttaaat aggtttaaaa ccatactaaa tggtttaaag
+     1801 gcagaagagg aaaaactttc tgaggctgat gatattcaga tgctagctga aaaattatta
+     1861 aaactcggag aaaccattga caaggttgag aataggattg tggatctagt tgaaaagata
+     1921 caattattgg aaacaaacga gaacaataat atattacatg aacatataga tgctacaggg
+     1981 acttactatt tattcgatac gttaacttca accaacaaaa gattctaccc taaggattgt
+     2041 gtttttgatt ataggactaa taatgtcgag aac
+//

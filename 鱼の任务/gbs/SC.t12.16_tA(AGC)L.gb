@@ -1,0 +1,63 @@
+LOCUS       Exported                2073 bp DNA     linear   SYN 07-AUG-2019
+DEFINITION  chrXII coordinates 655934 to 658006.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 2073)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Oct 29, 2022 from SnapGene 6.0.2
+            https://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..2073
+                     /mol_type="other DNA"
+                     /organism="synthetic DNA construct"
+     misc_feature    1..810
+                     /label=YLRWTy1-3
+     misc_feature    477..810
+                     /label=YLRWdelta14
+     tRNA            complement(1001..1073)
+                     /label=SC.t12.16_tA(AGC)L
+     misc_feature    1089..1432
+                     /label=YLRWsigma3
+     misc_feature    1516..1834
+                     /label=YLRWdelta15
+ORIGIN
+        1 agtcgcaata agcgatgctt catatggtaa ccaaccatat tacaagtcac aaattggtaa
+       61 cattttccta ctcaacggaa aagtgattgg aggaaagtcg acaaaggctt cgttaacatg
+      121 cacttcaact acagaagcag aaatacacgc agtcagtgaa gctataccgc tattgaataa
+      181 cctcagtcac cttgtgcaag aacttaacaa gaaaccaatt attaaaggct tacttactga
+      241 tagtagatca acgatcagta taattaagtc tacaaatgaa gagaaattta gaaacagatt
+      301 ttttggcaca aaggcaatga gacttagaga tgaagtatca ggtaataatt tatacgtata
+      361 ctacatcgag accaagaaga acattgctga tgtgatgaca aaacctcttc cgataaaaac
+      421 atttaaacta ttaacaaaca aatggattca ttagatctat tacattatgg gtggtatgtt
+      481 ggaataaaaa tcaactatca tctactaact agtatttacg ttactagtat attatcatat
+      541 acggtgttag aagatgacgc aaatgatgag aaatagtcat ctaaattagt ggaagctgaa
+      601 acgcaaggat tgataatgta ataggatcaa tgaatattaa catataaaac gatgataata
+      661 atatttatag aattgtgtag aattgcagat tcccttttat ggattcctaa atcctcgagg
+      721 agaacttcta gtatattctg tatacctaat attatagcct ttatcaacaa tggaatccca
+      781 acaattatct aattacccac aaatttctca gatggactag tagattttta tagagcagat
+      841 tttccaatat gggagtgatg cggtttgttt atgtataaat agaaagggac atatttttat
+      901 tattattatt ttagttattt agcatgtatg ttattttatc ggtgaattgt aatgatcgaa
+      961 taataattgg aggttgaaga agttgcaaaa aatatttact tggacgagtc cggaatcgaa
+     1021 ccggagacct ctcccatgct aagggagcgc gctaccgact acgccacacg cccaattttc
+     1081 ttgttgtctg ttgtgtttca gaatggggta cgtcagtatg ataataatca tcctaaacgt
+     1141 tcttaaatta catatgaaac aaccttatag caaaacgaac agaatgagca acatgagatg
+     1201 aaactccgcc tccttaactg aactttccaa acgtataaac gcctgaaaaa ttagtttaga
+     1261 tccgagattc cgcgcttcca ccatcaagta tgatccatat tttatataat atataagata
+     1321 agtaacattc cgtaagctga taatcccttt tggcaactcg ttacttccca aagactgttt
+     1381 atattaggat tgtcaaggga ccccggtatt gctcgagccc gtaatacaac agttgtcttt
+     1441 cactgctctc tatgttttga gacctccagt tcaccacata tattcgatct ttttcttact
+     1501 gttgaagcaa gaatctgttg gaatgaaggc ctagtattgt ctattgacta atattcatct
+     1561 tactagtata ttatcatata cagtgtaaga agatggcata aagattgaga accagtcatc
+     1621 agactaatga aagctgaaat gcaaggactg ataatgtaat gggataatga aatatataaa
+     1681 acggaaggag aaataaccgt gatattatta tgtagattta ccgactccac ttggaggatt
+     1741 tctctattct cgagggaaac ttggtatatt cgtacaccta atattatagc tcttgataac
+     1801 aatgaaattt caacaattat tcactcaacc ctcaagtgta tatcgccaag atcctaatca
+     1861 cccctctctg gtggccttcc ctcattgttt ttacacagaa caagaatcca taaaatcaag
+     1921 atattgggaa caattcattg tcttaggaac aagtttttat aatttagttt cattagccta
+     1981 ttgtaacttc ttgttttttt tttttatttt ggctggcaaa acaagaagta taaagaagtt
+     2041 accactgcta taacgtatat cttaaatcaa gtg
+//
